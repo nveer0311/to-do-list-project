@@ -58,7 +58,7 @@ h2 {
 
 }
 
-p {
+#quote {
   margin-left: 25px;
   text-align: center;
   color: white;
@@ -67,9 +67,12 @@ p {
 }
 
 .list-container {
-  font-family: 'Quicksand', sans-serif;
+  font-family: 'PT Sans', sans-serif;
+  /* font-family: 'Quicksand', sans-serif; */
   height: 250px;
   display: block;
-  width: 25%;
+  width: 30%;
+  color: white;
+  font-size: 25px;
 }
 /* 5F9EA0 */
